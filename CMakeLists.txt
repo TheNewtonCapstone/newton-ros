@@ -21,6 +21,7 @@ find_package(rosidl_default_generators REQUIRED)
 set(msg_files
   msg/ImuMsg.msg
   msg/ContactsMsg.msg
+  msg/JointsMsg.msg
 )
 
 set(action_files
