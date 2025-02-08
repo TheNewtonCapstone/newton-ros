@@ -22,6 +22,7 @@ set(msg_files
   msg/ImuMsg.msg
   msg/ContactsMsg.msg
   msg/JointsMsg.msg
+  msg/CommandMsg.msg
 )
 
 set(action_files
